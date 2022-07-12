@@ -1,3 +1,3 @@
 # Time series
 
-Este proyecto tiene como proposito implementar un procesos detallado de modelamiento de series de tiempo clasicas por medio de R
+The purpose of this project is to implement a detailed modeling process of classical time series through R
